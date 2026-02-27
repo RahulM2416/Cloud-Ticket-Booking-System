@@ -72,16 +72,6 @@ Email Notification (SES) + SMS Notification (SNS)
 
 ---
 
-## 🎯 Learning Outcomes
-
-* AWS cloud service integration
-* Secure file storage and access
-* Event-driven notification systems
-* Backend API design
-* Full-stack application development
-
----
-
 ## 🔮 Future Enhancements
 
 * OTP-based user verification
