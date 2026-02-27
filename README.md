@@ -81,6 +81,4 @@ Email Notification (SES) + SMS Notification (SNS)
 
 ---
 
-## 👨‍💻 Author
-
-Rahul M
+![Made with Love](https://img.shields.io/badge/Made%20By-Rahul%20M-blueviolet)
